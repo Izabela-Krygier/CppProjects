@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599393142 source:/home/rafa/Dokumenty/IZA-C++/program-do-zapisu-pliku/main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

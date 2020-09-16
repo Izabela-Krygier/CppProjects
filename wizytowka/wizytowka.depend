@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599329956 source:/home/rafa/Dokumenty/IZA-C++/wizytowka/main.cpp
+	<iostream>
+	<fstream>
+

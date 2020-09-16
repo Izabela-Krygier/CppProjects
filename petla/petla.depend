@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598901475 source:/home/rafa/Dokumenty/petla/main.cpp
+	<iostream>
+	<unistd.h>
+

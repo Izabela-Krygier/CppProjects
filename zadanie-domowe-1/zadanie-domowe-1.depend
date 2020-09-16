@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600113994 source:/home/rafa/Dokumenty/IZA-C++/zadanie-domowe-1/main.cpp
+	<iostream>
+	<tgmath.h>
+

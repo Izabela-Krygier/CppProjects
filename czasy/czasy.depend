@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599978462 source:/home/rafa/Dokumenty/IZA-C++/czasy/main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+

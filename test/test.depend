@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600108565 source:/home/rafa/Dokumenty/IZA-C++/test/main.cpp
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<stdio.h>
+

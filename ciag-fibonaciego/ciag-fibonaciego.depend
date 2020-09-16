@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599302207 source:/home/rafa/Dokumenty/IZA-C++/ciag-fibonaciego/main.cpp
+	<iostream>
+	<iomanip>
+
